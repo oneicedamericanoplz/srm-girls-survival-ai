@@ -1,0 +1,1 @@
+Place comic assets (PNG/SVG) in this folder. The app references external images by default; replace them with local assets if desired.
